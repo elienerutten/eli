@@ -1,3 +1,5 @@
+Code externship project Eliene Rutten will be published (private) here
+
 Physical Activity data of the 10k cohort: a large‐scale prospective longitudinal study in Israel
-Externship project performed at the Weizmann Institute of Science in the lab of Eran Segal 
-Code will be published (private) here
+Project performed at the Weizmann Institute of Science in the lab of Eran Segal 
+
