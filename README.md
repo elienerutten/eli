@@ -3,7 +3,7 @@ Code externship project Eliene Rutten will be published here
 Physical Activity data of the 10k cohort: a large‐scale prospective longitudinal study in Israel
 Project performed at the Weizmann Institute of Science in the lab of Eran Segal 
 
-| **Feature**                                      | **Tag**                 | **Details **                       |
+| **Feature**                                      | **Tag**                 | **Details**                       |
 |--------------------------------------------------|-------------------------|------------------------------------|
 | Amount of days of data*                          | datetime_count          |                                    |
 | **Steps data**                                   |                         |                                    |
@@ -40,3 +40,5 @@ Project performed at the Weizmann Institute of Science in the lab of Eran Segal
 | Std time high activity per day (min)             | min_high_sum_std        |                                    |
 | Move minutes per day mean (min)                  | move_min_mean           | >= 30 steps within 1 minute        |
 | Move minutes per day std (min)                   | move_min_std            |                                    |
+
+*Overview of the defined features for the physical activity data obtained via a tracking application. _*Feature available also for AppleHealtkit_
