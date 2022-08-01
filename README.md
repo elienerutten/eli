@@ -6,6 +6,7 @@ In the 10k project physical activity data is collected in three different ways: 
 The following Table gives an overview of the defined physical activity features which can be extracted from the third party tracking application physical activity data.  
 
 **Tracking application:**
+
 A distinction is made between the two different types of tracking applications, AppleHealthkit and Googlefitness. AppleHealthkit data is limited to daily steps, whereas GoogleFitness data has a higher resolution and contains next to stepcount also estimated spend calories, distance and activities data. 
 
 _apple_google_daily_steps_ gives the features: amount of days of data, daily steps and some other time-related features for all participants. 
