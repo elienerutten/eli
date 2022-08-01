@@ -12,6 +12,7 @@ _apple_google_daily_steps_ gives the features: amount of days of data, daily ste
 _google_activity_data_ gives all features specified in the Table for participants using GoogleFit.
 
 **Activity logging:**
+
 _google_activity_data_ gives activity type and timing, corresponding MET values, high and moderate activity minutes and Heart points for the activity logging data of all participants. 
 
 
