@@ -1,7 +1,19 @@
-Code externship project Eliene Rutten will be published here
-
 Physical Activity data of the 10k cohort: a large‐scale prospective longitudinal study in Israel
-Project performed at the Weizmann Institute of Science in the lab of Eran Segal 
+Project performed at the Weizmann Institute of Science in the lab of Eran Segal.
+
+In the 10k project physical activity data is collected in three different ways: 1) tracking application on mobile phone  2) Activity logging by a proprietary smartphone application 3) extensive questionnaires. For data source 1) and 2) the codes that clean the data and extract features can be found in this directory. 
+
+The following Table gives an overview of the defined physical activity features which can be extracted from the third party tracking application physical activity data.  
+
+**Tracking application:**
+A distinction is made between the two different types of tracking applications, AppleHealthkit and Googlefitness. AppleHealthkit data is limited to daily steps, whereas GoogleFitness data has a higher resolution and contains next to stepcount also estimated spend calories, distance and activities data. 
+
+_apple_google_daily_steps_ gives the features: amount of days of data, daily steps and some other time-related features for all participants. 
+_google_activity_data_ gives all features specified in the Table for participants using GoogleFit.
+
+**Activity logging:**
+_google_activity_data_ gives activity type and timing, corresponding MET values, high and moderate activity minutes and Heart points for the activity logging data of all participants. 
+
 
 | **Feature**                                      | **Tag**                 | **Details**                       |
 |--------------------------------------------------|-------------------------|------------------------------------|
