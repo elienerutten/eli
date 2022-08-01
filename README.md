@@ -1,5 +1,5 @@
-Physical Activity data of the 10k cohort: a large‐scale prospective longitudinal study in Israel
-Project performed at the Weizmann Institute of Science in the lab of Eran Segal.
+**Physical Activity data of the 10k cohort: a large‐scale prospective longitudinal study in Israel
+Project performed at the Weizmann Institute of Science in the lab of Eran Segal.**
 
 In the 10k project physical activity data is collected in three different ways: 1) tracking application on mobile phone  2) Activity logging by a proprietary smartphone application 3) extensive questionnaires. For data source 1) and 2) the codes that clean the data and extract features can be found in this directory. 
 
